@@ -1,5 +1,9 @@
 # WebServer:
 ### Creating a web server locally using Express.js <br>  <hr>
+
+Here's the code : <br>
+![image](https://github.com/user-attachments/assets/50c7886e-7d61-4e01-aa73-1834a9e66288) <br> <br>
+
 1) After writing the code, run this command:  <br> <br>
 ![4](https://github.com/usememos/memos/assets/108004846/ae46c065-3cf6-4406-9deb-02064d9bd4f3)  <br>
 
